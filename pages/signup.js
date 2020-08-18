@@ -31,6 +31,7 @@ import InputLabel from "@material-ui/core/InputLabel";
 import FormControl from "@material-ui/core/FormControl";
 import Visibility from "@material-ui/icons/Visibility";
 import VisibilityOff from "@material-ui/icons/VisibilityOff";
+import Router from "next/router";
 
 const useStyles = makeStyles(styles);
 
@@ -70,8 +71,12 @@ export default function LoginPage(props) {
     event.preventDefault();
 
     UserPool.signUp(email, password, [], null, (err, data) => {
-      if (err) console.error(err);
-      console.log(email, password);
+      if (err) {
+        console.error(err);
+        Router.push("/error");
+      } else {
+        Router.push("/check-email");
+      }
     });
   };
 

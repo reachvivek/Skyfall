@@ -1,5 +1,6 @@
 /*eslint-disable*/
-import React from "react";
+import React, { useState, useContext, useEffect } from "react";
+import { AccountContext } from "../CogAuthTools/Accounts";
 import Link from "next/link";
 
 // @material-ui/core components
@@ -56,7 +57,6 @@ export default function HeaderLinks(props) {
           ]}
         />
       </ListItem> */}
-
       <ListItem className={classes.listItem}>
         <Tooltip
           id="howitworks-skyfall"
@@ -73,7 +73,6 @@ export default function HeaderLinks(props) {
           </Button>
         </Tooltip>
       </ListItem>
-
       <ListItem className={classes.listItem}>
         <Tooltip
           id="download-skyfall"
@@ -109,7 +108,6 @@ export default function HeaderLinks(props) {
           </Button>
         </Tooltip>
       </ListItem>
-
       <ListItem className={classes.listItem}>
         <Tooltip
           id="signup-skyfall"
@@ -127,7 +125,6 @@ export default function HeaderLinks(props) {
           </Button>
         </Tooltip>
       </ListItem>
-
       <ListItem className={classes.listItem}>
         <Tooltip
           id="deploy-skyfall"
@@ -145,7 +142,6 @@ export default function HeaderLinks(props) {
           </Button>
         </Tooltip>
       </ListItem>
-
       {/* <ListItem className={classes.listItem}> */}
       {/*<Tooltip title="Delete">
         <IconButton aria-label="Delete">
@@ -153,7 +149,6 @@ export default function HeaderLinks(props) {
         </IconButton>
       </Tooltip>*/}
       {/* </ListItem> */}
-
       {/* <ListItem className={classes.listItem}>
         <Tooltip
           id="instagram-facebook"
