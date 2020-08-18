@@ -503,7 +503,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      (0, _sourceMapSupport.rewriteStacktrace)(error, "/Users/vivekkumarsingh/Desktop/Codestreet'20/Skyfall/.next");
+      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\Users\\V.K. SINGH\\Desktop\\American Express\\Skyfall\\Frontend\\.next");
       return error;
     }
   };

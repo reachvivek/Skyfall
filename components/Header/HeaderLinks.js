@@ -10,7 +10,13 @@ import Tooltip from "@material-ui/core/Tooltip";
 import Icon from "@material-ui/core/Icon";
 
 // @material-ui/icons
-import { Apps, MobileFriendlyTwoTone, ExitToAppTwoTone, CloudQueueTwoTone } from "@material-ui/icons";
+import {
+  Apps,
+  MobileFriendlyTwoTone,
+  ExitToAppTwoTone,
+  CloudUploadOutlined,
+  CloudDone,
+} from "@material-ui/icons";
 import DeleteIcon from "@material-ui/icons/Delete";
 import IconButton from "@material-ui/core/IconButton";
 
@@ -51,95 +57,103 @@ export default function HeaderLinks(props) {
         />
       </ListItem> */}
 
-
       <ListItem className={classes.listItem}>
         <Tooltip
-            id="howitworks-skyfall"
-            title="How does it work?"
-            placement={"top"}
-            classes={{ tooltip: classes.tooltip }}
+          id="howitworks-skyfall"
+          title="How does it work?"
+          placement={"top"}
+          classes={{ tooltip: classes.tooltip }}
         >
           <Button
             href="./howitworks"
             color="transparent"
             className={classes.navLink}
           >
-           <Icon className={classes.icons}>helpoutline</Icon> HOW IT WORKS
+            <Icon className={classes.icons}>helpoutline</Icon> HOW IT WORKS
           </Button>
         </Tooltip>
       </ListItem>
-            
-            
+
       <ListItem className={classes.listItem}>
         <Tooltip
           id="download-skyfall"
           title="Download it on your Phone"
           placement={"top"}
           classes={{ tooltip: classes.tooltip }}
-        >   
+        >
           <Button
             href="./downloadskyfall"
             color="transparent"
             className={classes.navLink}
           >
-            <MobileFriendlyTwoTone className={classes.icons} /> 
-              DOWNLOAD SKYFALL
+            <MobileFriendlyTwoTone className={classes.icons} />
+            DOWNLOAD SKYFALL
           </Button>
         </Tooltip>
       </ListItem>
 
-
-
-          <ListItem className={classes.listItem}>
+      <ListItem className={classes.listItem}>
         <Tooltip
           id="login-skyfall"
           title="Login to Skyfall"
           placement={"top"}
           classes={{ tooltip: classes.tooltip }}
-        >   
+        >
           <Button
-            href="./login"
+            href="./signin"
             color="transparent"
             className={classes.navLink}
           >
-            <ExitToAppTwoTone className={classes.icons} /> 
-              LOGIN
+            <ExitToAppTwoTone className={classes.icons} />
+            SIGN IN
           </Button>
         </Tooltip>
-          </ListItem>
+      </ListItem>
 
+      <ListItem className={classes.listItem}>
+        <Tooltip
+          id="signup-skyfall"
+          title="Register on Amazon AWS"
+          placement={"top"}
+          classes={{ tooltip: classes.tooltip }}
+        >
+          <Button
+            href="./signup"
+            color="transparent"
+            className={classes.navLink}
+          >
+            <CloudDone className={classes.icons} />
+            SIGN UP
+          </Button>
+        </Tooltip>
+      </ListItem>
 
-          <ListItem className={classes.listItem}>
+      <ListItem className={classes.listItem}>
         <Tooltip
           id="deploy-skyfall"
           title="Register on Amazon AWS"
           placement={"top"}
           classes={{ tooltip: classes.tooltip }}
-        >   
+        >
           <Button
-            href="https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start"
-            target="_blank"
+            href="http://www.github.com/reachvivek/Skyfall"
             color="transparent"
             className={classes.navLink}
           >
-            <CloudQueueTwoTone className={classes.icons} /> 
-              DEPLOY SKYFALL
+            <CloudUploadOutlined className={classes.icons} />
+            DEPLOY SKYFALL
           </Button>
         </Tooltip>
-          </ListItem>
-          
-          
-          
-          
-          
-            {/* <ListItem className={classes.listItem}> */}
+      </ListItem>
+
+      {/* <ListItem className={classes.listItem}> */}
       {/*<Tooltip title="Delete">
         <IconButton aria-label="Delete">
           <DeleteIcon />
         </IconButton>
-      </Tooltip>*/} 
+      </Tooltip>*/}
       {/* </ListItem> */}
-      
+
       {/* <ListItem className={classes.listItem}>
         <Tooltip
           id="instagram-facebook"
@@ -175,8 +189,6 @@ export default function HeaderLinks(props) {
           </Button>
         </Tooltip>
       </ListItem> */}
-
-
     </List>
   );
 }

@@ -1,7 +1,7 @@
 {
-  "name": "next-material-kit",
-  "version": "1.1.0",
-  "description": "NextJS Version of Material Kit React by Creative Tim (https://creative-tim.com)",
+  "name": "SKYFALL",
+  "version": "1.0.0",
+  "description": "Skyfall - Serverless Password Mananger",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/nextjs-material-kit.git"
+    "url": "https://github.com/reachvivek/skyfall"
   },
   "keywords": [
     "next",
@@ -33,9 +33,13 @@
   },
   "homepage": "https://demos.creative-tim.com/nextjs-material-kit",
   "dependencies": {
+    "@aws-amplify/auth": "^3.3.4",
+    "@aws-amplify/core": "^3.4.5",
     "@material-ui/core": "4.9.13",
     "@material-ui/icons": "4.9.1",
     "@zeit/next-sass": "1.0.1",
+    "amazon-cognito-identity-js": "^4.3.3",
+    "aws-cognito-next": "^3.0.0",
     "classnames": "2.2.6",
     "moment": "2.25.3",
     "next": "9.3.6",
@@ -45,6 +49,7 @@
     "node-sass": "4.14.1",
     "nouislider": "14.4.0",
     "path": "0.12.7",
+    "pem": "^1.14.4",
     "prop-types": "15.7.2",
     "react": "16.13.1",
     "react-datetime": "2.16.3",
