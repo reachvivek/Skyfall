@@ -1,7 +1,7 @@
 # `High Level Design 📌 of Skyfall 🔐`
 ***
 ## `For Deployment Purpose`
-![Skyfall_Complete](SkyfallComplete.png)
+![Skyfall_Complete](HighLevelDesign.png)
 
 ##### This architecture is fully based on serverless model, hence there is very less maintenance cost and cost effective.
 
