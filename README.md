@@ -9,7 +9,7 @@
 
 <h1 align="center">About</H1>
 
-Skyfall has been made to ensure that existing **Passwords and 3rd Party Data Management** use-cases are more reliable, dependable and truly secure. The objective is to give the netizens a **Credentials Manager Application Interface** which has a **serverless architecture** and can be deployed locally to their very own personal cloud account. For a concrete scope of this project, I have utilised and deployed the backend on AWS Platform.
+Skyfall has been made to ensure that existing **Password Managers and 3rd Party Data Management** use-cases are more reliable, dependable and truly secure. The objective is to give the netizens a **Credentials Manager Application Interface** which has a **serverless architecture** and can be deployed locally to their very own personal cloud account. For a concrete scope of this project, I have utilised and deployed the backend on AWS Platform.
 > **Note:** This is ```Not An Open Source Project``` and is intended to be shared only with ```HackerEarth Officials``` & respective organizers of ```#codestreet20 American Express``` for Validation of my Idea Subission and Evaluation Purposes. Please check this link below to better understand the license agreement of this repository: <a target="_blank" href="https://choosealicense.com/no-permission/">
           <p align="center"> <strong>About Proprietary Code & Repository | GitHub</strong> </p> </a> 
 
