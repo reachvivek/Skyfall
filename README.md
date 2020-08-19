@@ -37,7 +37,7 @@ Skyfall has been made to ensure that existing **Password Managers and 3rd Party 
 * Passay
 * AWS KMS
 
-## High Level Design 📋 [Click here](HLD.md)
+## High Level Design 📌 [Click here](HLD.md)
 
 ## Steps 
 ## 1. Deploying Skyfall's Backend ☁️
