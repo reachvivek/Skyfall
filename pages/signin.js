@@ -32,6 +32,7 @@ import FormControl from "@material-ui/core/FormControl";
 import Visibility from "@material-ui/icons/Visibility";
 import VisibilityOff from "@material-ui/icons/VisibilityOff";
 
+import Router from "next/Router";
 import { CognitoUser, AuthenticationDetails } from "amazon-cognito-identity-js";
 const useStyles = makeStyles(styles);
 
@@ -83,6 +84,7 @@ export default function LoginPage(props) {
     user.authenticateUser(authDetails, {
       onSuccess: (data) => {
         console.log("onSuccess:", data);
+        Router.push("/dashboard");
       },
 
       onFailure: (err) => {
