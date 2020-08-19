@@ -117,7 +117,7 @@ Local URL will be like
 http://localhost:8080/(skyfall-apis)
 ```
 
-## API documentation and Testing with Swagger UI 🔨 [Click Here](SkyfallSwaggerReadme.md)
+## API documentation and Testing with Swagger UI 🔨 [Click Here](SkyfallSwagger.md)
 
 ## 2. Deploying the Frontend App (built on NextJS) 🔼
 
