@@ -117,7 +117,7 @@ Local URL will be like
 http://localhost:8080/(skyfall-apis)
 ```
 
-## API documentation and Testing with Swagger UI 🔨 [Click Here](SkyfallSwagger.md)
+### API documentation and Testing with Swagger UI 🔨 [Click Here](SkyfallSwagger.md)
 
 ## 2. Deploying the Frontend App (built on NextJS) 🔼
 
@@ -143,7 +143,7 @@ You have your API server running at `{get it from your deployed aws platform [..
 ## 3. Installation of Skyfall Mobile Application 
 :point_down: Here is the link to the APK file
 
-[![ App](https://img.shields.io/badge/CurbC19-APK-dodgerblue.svg?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1_NDIx2A2p0mH7ciO6Vjh_f2rWBpw_RnU/view?usp=sharing)
+[![ App](https://img.shields.io/badge/Skyfall-APK-dodgerblue.svg?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1_NDIx2A2p0mH7ciO6Vjh_f2rWBpw_RnU/view?usp=sharing)
 
 ```
 Note: You need to disable the "Play Protect" feature from Settings of your "Google Play Store"!
