@@ -164,21 +164,6 @@ We focused on the principle of _Minimalism_. Built this up on Google’s Materia
   </tr>
 </table>
 
-#### > Key Features 
-Can't appearances be deceptive? That's what we thought! So here's an insight into some few extra dives that this app manages to pull of which also makes it fully fledged in its own way. Also, didn't you love the _Night Mode_ ? **Well, _Suit yourself_...**
-<table style="width:100%">
-  <tr>
-    <th>Paginated Information</th>
-    <th>Search FAQs | Toggle Between Night Mode / Light Mode</th>
-    <th>Curated Helpline Numbers
-  </tr>
-  <tr>
-    <td><img src="https://github.com/reachvivek/Curb-C19/blob/master/walkthrough/20200415_072359.gif"/></td> 
-    <td><img src="https://github.com/reachvivek/Curb-C19/blob/master/walkthrough/20200415_062008.gif"/></td>  
-    <td><img src="https://github.com/reachvivek/Curb-C19/blob/master/walkthrough/20200415_062632.gif"/></td>
-  </tr>
-</table>
-
 #### Wait, this isn't done yet! There are many more features as well...
 Good News! Because, All it takes... is a minute. Take your time and check it out below... Won't you?
 
@@ -219,7 +204,7 @@ Good News! Because, All it takes... is a minute. Take your time and check it out
 
 
 ## Team: Roger That
-<table style="width:100%; height:100px; margin-left:10px;">
+<table style="width:100%; height:100px; margin: 0px auto;">
   <tr>
     <th>
  <img src="https://github.com/reachvivek/Curb-C19/blob/master/app/src/main/res/drawable/vivek.jpg"width="245" height="240"/>
@@ -231,12 +216,12 @@ Good News! Because, All it takes... is a minute. Take your time and check it out
              <strong>VIVEK KUMAR SINGH</strong> 
           </p> 
        </a>
-	    <p align="center" style="font-size:10px">FULL STACK DEVELOPMENT</p> <p align="center">WEB | ANDROID | iOS</p>
+	    <p align="center" style="font-size:10px">FULL STACK DEVELOPER</p> <p align="center">WEB | ANDROID | iOS</p>
      </td>
   </tr>
 </table>
 
-<p align="center"><strong>Reach us at nomadforks@gmail.com for any queries</strong></p>
+<p align="center"><strong>Reach out to me at vs1913@srmist.edu.in or rogerthatvivek@gmail.com for any queries</strong></p>
 
 ## Acknowledgement and Accreditations
 > I sincerely thank and appreciate **#CODESTREET'20 #HackerEarth Officials, all the panel members of American Express** and all the respective **Tech Enthusiasts** who volunteered in carrying out this venture by extending their support at this dark hour of Pandemic. I feel really invigorated being a part of this 24 Hours Hackathon, to be able to connect and innovate with solutions for a better and safer tomorrow.
@@ -248,9 +233,9 @@ _Looking forward to a better tomorrow..._
 
 ### Solution
 
-A Full Stack Solution (includes Chrome Extension and a Mobile App) with the following functionalities:
+A Full Stack Solution (includes Chrome Extension and a Mobile App) with the following components:
 1. Backend Application with Swagger UI (Complete Backend). 
-2. Frontend Web App using NextJs (Skyfall Web). 
+2. Frontend Web App using NextJs (Skyfall Interface). 
 3. Skyfall - Mobile Application (using Native Coding in Android Studio).   
 5. Chrome Extension - For Cross Platform Suppor (Syncs/Autofills/Suggests Secure Creds). 
 
