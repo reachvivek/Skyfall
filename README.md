@@ -148,60 +148,6 @@ You have your API server running at `{get it from your deployed aws platform [..
 ```
 Note: You need to disable the "Play Protect" feature from Settings of your "Google Play Store"!
 ```
-### App Walkthrough | Running 'Skyfall' For The First Time 
-#### > Dashboard UI 
-We focused on the principle of _Minimalism_. Built this up on Google’s Material Design Library which helps the UI look easy and seamless keeping and all in all adds up to enhancing the app’s design / user interface experience. Why don't you see for yourself?
-<table style="width:100%">
-  <tr>
-    <th>Dashboard (1/3)</th>
-    <th>Dashboard (2/3)</th>
-    <th>Dashboard (3/3)
-  </tr>
-  <tr>
-    <td><img src="https://github.com/reachvivek/Curb-C19/blob/master/walkthrough/20200415_052953.gif"/></td>  
-    <td><img src="https://github.com/reachvivek/Curb-C19/blob/master/walkthrough/20200415_060044.gif"/></td>
-    <td><img src="https://github.com/reachvivek/Curb-C19/blob/master/walkthrough/20200415_055602.gif"/></td> 
-  </tr>
-</table>
-
-#### Wait, this isn't done yet! There are many more features as well...
-Good News! Because, All it takes... is a minute. Take your time and check it out below... Won't you?
-
-[![Walkthrough](https://img.shields.io/badge/CurbC19Walkthrough-GoPro-blue.svg?style=flat&logo=youtube)](https://tinyurl.com/nomaddemo)
-
-## Built With
-<p align="left">
-	<a target="_blank" href="https://kotlinlang.org/">
-        <img src="https://img.shields.io/badge/Kotlin-orange.svg?style=for-the-badge&logo=kotlin" />
-	</a>
-</p>
-<p align="center">
-   <a target="_blank" href="https://firebase.google.com/">
-        <img src="https://img.shields.io/badge/Firebase-red.svg?style=flat&logo=firebase" />
-	</a>
-   <a target="_blank" href="https://material.io/design/">
-        <img src="https://img.shields.io/badge/MaterialDesign-purple.svg?style=flat&logo=materialdesign" />
-	</a>
-   <a target="_blank" href="https://developers.google.com/places/web-service/intro">
-        <img src="https://img.shields.io/badge/GoogleMaps&Places-API-darkyellow.svg?style=flat&logo=maps" />
-	</a>
-   <a target="_blank" href="https://developer.android.com/reference/org/json/JSONObject">
-        <img src="https://img.shields.io/badge/JSON-cyan.svg?style=flat&logo=material" />
-	</a>
-</p>
-
-> - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - The new way of writing asynchronous, non-blocking code
-> - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) - Data objects that notify views when the underlying database changes.
-> - [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/-flow/) - A cold asynchronous data stream that sequentially emits values and completes normally or with an exception.
-> - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - Collection of libraries that help you design robust, testable, and maintainable apps.
-> - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes. 
-> - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - Generates a binding class for each XML layout file present in that module and allows you to more easily write code that interacts with views.
-> - [Koin](https://start.insert-koin.io/) - Dependency Injection Framework (Kotlin)
-> - [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
-> - [Moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
-> - [Moshi Converter](https://github.com/square/retrofit/tree/master/retrofit-converters/moshi) - A Converter which uses Moshi for serialization to and from JSON.
-> - [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager) - The WorkManager API makes it easy to schedule deferrable, asynchronous tasks that are expected to run even if the app exits or device restarts.
-
 
 ## Team Name: Roger That
 <table style="margin: 0px auto;" align="center">
