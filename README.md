@@ -169,10 +169,6 @@ Note: You need to disable the "Play Protect" feature from Settings of your "Goog
 
 <p align="center"><strong>Reach out to me at vs1913@srmist.edu.in or rogerthatvivek@gmail.com for any queries</strong></p>
 
-## Acknowledgement and Accreditations
-> I sincerely thank and appreciate **#CODESTREET'20 #HackerEarth Officials, all the panel members of American Express** and all the respective **Tech Enthusiasts** who volunteered in carrying out this venture by extending their support at this dark hour of Pandemic. I feel really invigorated being a part of this 24 Hours Hackathon, to be able to connect and innovate with solutions for a better and safer tomorrow.
-_Looking forward to a better tomorrow..._  
-
 ## Area/Theme:
 
 ### Cyber Security
@@ -185,132 +181,8 @@ A Full Stack Solution (includes Chrome Extension and a Mobile App) with the foll
 3. Skyfall - Mobile Application (using Native Coding in Android Studio).   
 5. Chrome Extension - For Cross Platform Suppor (Syncs/Autofills/Suggests Secure Creds). 
 
-## Attachments (Also attested on the submission page of the HackerEarth Challenge)
-
-<a target="_blank" href="https://codestreet-2020.hackerearth.com/challenges/hackathon/american-express-codestreet20/dashboard/7a0f8c9/idea/published/skyfall-2/">
-  <p align="left"> <strong>Skyfall | Idea Attachment </strong></p>
-</a>
+## Acknowledgement and Accreditations
+> I sincerely thank and appreciate **#CODESTREET'20 #HackerEarth Officials, all the panel members of American Express** and all the respective **Tech Enthusiasts** who volunteered in carrying out this venture by extending their support at this dark hour of Pandemic. I feel really invigorated being a part of this 24 Hours Hackathon, to be able to connect and innovate with solutions for a better and safer tomorrow.
+_Looking forward to a better tomorrow..._  
 
 
-## File Structure
-Within the download you'll find the following directories and files:
-
-```
-Skyfall/Frontend
-.
-├── CHANGELOG.md
-├── ISSUE_TEMPLATE.md
-├── LICENSE.md
-├── README.md
-├── next.config.js
-├── package.json
-├── Documentation
-│   ├── assets
-│   └── tutorial-components.html
-├── assets
-│   ├── css
-│   ├── img
-│   │   ├── examples
-│   │   └── faces
-│   ├── jss
-│   │   ├── nextjs-material-kit
-│   │   │   ├── components
-│   │   │   └── pages
-│   │   │       ├── componentsSections
-│   │   │       └── landingPageSections
-│   │   └── nextjs-material-kit.js
-│   └── scss
-│       ├── core
-│       │   ├── mixins
-│       │   └── variables
-│       ├── plugins
-│       └── nextjs-material-kit.scss
-├── pages
-│   ├── _app.js
-│   ├── _document.js
-│   ├── _error.js
-│   ├── components.js
-│   ├── index.js
-│   ├── landingpage.js
-│   ├── loginpage.js
-│   └── profilepage.js
-├── components
-│   ├── Badge
-│   │   └── Badge.js
-│   ├── Card
-│   │   ├── Card.js
-│   │   ├── CardBody.js
-│   │   ├── CardFooter.js
-│   │   └── CardHeader.js
-│   ├── Clearfix
-│   │   └── Clearfix.js
-│   ├── CustomButtons
-│   │   └── Button.js
-│   ├── CustomDropdown
-│   │   └── CustomDropdown.js
-│   ├── CustomInput
-│   │   └── CustomInput.js
-│   ├── CustomLinearProgress
-│   │   └── CustomLinearProgress.js
-│   ├── CustomTabs
-│   │   └── CustomTabs.js
-│   ├── Footer
-│   │   └── Footer.js
-│   ├── Grid
-│   │   ├── GridContainer.js
-│   │   └── GridItem.js
-│   ├── Header
-│   │   ├── Header.js
-│   │   └── HeaderLinks.js
-│   ├── InfoArea
-│   │   └── InfoArea.js
-│   ├── NavPills
-│   │   └── NavPills.js
-│   ├── PageChange
-│   │   └── PageChange.js
-│   ├── Pagination
-│   │   └── Pagination.js
-│   ├── Parallax
-│   │   └── Parallax.js
-│   ├── Snackbar
-│   │   └── SnackbarContent.js
-│   └── Typography
-│       ├── Danger.js
-│       ├── Info.js
-│       ├── Muted.js
-│       ├── Primary.js
-│       ├── Quote.js
-│       ├── Small.js
-│       ├── Success.js
-│       └── Warning.js
-└── pages-sections
-    ├── Components-Sections
-    │   ├── SectionBasics.js
-    │   ├── SectionCarousel.js
-    │   ├── SectionCompletedExamples.js
-    │   ├── SectionDownload.js
-    │   ├── SectionExamples.js
-    │   ├── SectionJavascript.js
-    │   ├── SectionLogin.js
-    │   ├── SectionNavbars.js
-    │   ├── SectionNotifications.js
-    │   ├── SectionPills.js
-    │   ├── SectionTabs.js
-    │   └── SectionTypography.js
-    └── LandingPage-Sections
-        ├── ProductSection.js
-        ├── TeamSection.js
-        └── WorkSection.js
-```
-
-
-## Browser Support
-
-At present, Skyfall officially aims to support the last two versions of the following browsers:
-
-<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
-
-
-
-## Resources
-- MaterialUIStarter Kit: <https://demos.creative-tim.com/nextjs-material-kit/?ref=njsmk-readme>
