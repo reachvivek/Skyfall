@@ -37,7 +37,7 @@ Skyfall has been made to ensure that existing **Password Managers and 3rd Party 
 * Passay
 * AWS KMS
 
-## High Level Design 📌 [Click here](HLD.md)
+## High Level Design 📜  [Click here](HLD.md)
 
 ## Steps 
 ## 1. Deploying Skyfall's Backend ☁️
@@ -280,22 +280,6 @@ A Full Stack Solution (includes Chrome Extension and a Mobile App) with the foll
   <p align="left"> <strong>Curb C-19 | Presentation </strong></p>
 </a>
 
-# [NextJS Material Kit](https://demos.creative-tim.com/nextjs-material-kit?ref=njsmk-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fdemos.creative-tim.com%2Fnextjs-material-kit%2Fcomponents&text=NextJS%20Material%20Kit&via=Creative%20Tim&hashtags=nextjs%20%23creativetim%20%23materialdesign)
-
-
- ![version](https://img.shields.io/badge/version-1.1.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/nextjs-material-kit.svg?maxAge=2592000)](https://github.com/creativetimofficial/nextjs-material-kit/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/nextjs-material-kit.svg?maxAge=2592000)](https://github.com/creativetimofficial/nextjs-material-kit/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
-
-
-![Product Presentation Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nextjs-material-kit/nextjs-material-kit.jpg)
-
-**[NextJS Material Kit](https://demos.creative-tim.com/nextjs-material-kit/?ref=njsmk-readme)** is a Free Material-UI Kit with a fresh, new design inspired by Google's material design and is was developed using [NextJS](https://nextjs.org/?ref=creativetim), starting from [this starter project](https://github.com/mui-org/material-ui/tree/master/examples/nextjs) by [Material-UI](https://material-ui.com/?ref=creativetim) and [Material Kit React](https://www.creative-tim.com/product/material-kit-react?ref=njsmk-readme) by Creative Tim. You asked for it, so we built it. It's a great pleasure to introduce to you the material concepts in an easy to use and beautiful set of components. Along with the restyling of the Material-UI elements, you will find three fully-coded example pages, to help you design your NextJS project.
-
-**[NextJS Material Kit](https://demos.creative-tim.com/nextjs-material-kit/?ref=njsmk-readme)** makes use of light, surface and movement. It uses a deliberate color choice, edge-to-edge imagery and large scale typography. The general layout resembles sheets of paper following multiple different layers, so that the depth and order is obvious. The navigation stays mainly on the left and the actions on the right.
-
-This new design has elements that have been the result of research regarding ink and paper and the way objects and materials interact in real life. The result is a beautiful and consistent set of elements that can get you started with your next project. NextJS Material Kit is a great tool if you are looking to create a web presence for your web application and need to be consistent, leaving the impression of visually similar elements. It is also a great resource in its own right, looking gorgeous and helping you build your web pages.
-
-**[NextJS Material Kit](https://demos.creative-tim.com/nextjs-material-kit/?ref=njsmk-readme)** was built with the help of [nextjs](https://nextjs.org/?ref=creativetim) and it uses a framework built by our friends from **[Material-UI](https://material-ui.com/?ref=creativetim)**, who did an amazing job creating the backbone for the material effects, animations, ripples and transitions. Big thanks to this team for the effort and forward thinking they put into it.
-
 
 ## Table of Contents
 
@@ -311,21 +295,6 @@ This new design has elements that have been the result of research regarding ink
 * [Useful Links](#useful-links)
 
 
-## Versions
-
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-kit?ref=njsmk-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/nextjs_logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/nextjs-material-kit?ref=njsmk-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-kit?ref=njsmk-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-react?ref=njsmk-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-native-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-react-native?ref=njsmk-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/figma-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/material-kit-figma/presentation.html?ref=njsmk-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/wordpress-logo.jpg?raw=true" width="60" height="60" />](https://themeisle.com/themes/hestia/?ref=creativetim)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/photoshop-logo.jpg" width="60" height="60" />](https://github.com/creativetimofficial/material-kit/tree/photoshop)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/sketch-logo.jpg" width="60" height="60" />](https://github.com/creativetimofficial/material-kit/tree/sketch)
-
-
-
-| React Native | Figma | WordPress | NextJS |
-| ---  | --- | --- | --- |
-| [![Material Kit React Native](https://github.com/creativetimofficial/public-assets/blob/master/material-kit-react-native/opt_mkrn_thumbnail.jpg?raw=true)](https://www.creative-tim.com/product/material-kit-react-native?ref=njsmk-readme) | [![Material Kit Figma](https://github.com/creativetimofficial/public-assets/blob/master/material-kit-figma/material-kit-figma.jpg?raw=true)](https://demos.creative-tim.com/material-kit-figma/presentation.html?ref=njsmk-readme) | [![Material Kit WordPress](https://github.com/creativetimofficial/public-assets/blob/master/material-kit-wordpress/opt_smd_thumbnail.jpg?raw=true)](https://themeisle.com/themes/hestia/?ref=creativetim)  | [![NextJS Material Kit](https://github.com/creativetimofficial/public-assets/blob/master/nextjs-material-kit/nextjs-material-kit.jpg?raw=true)](https://www.creative-tim.com/product/nextjs-material-kit?ref=njsmk-readme)
-
-
-| HTML | React | Vue |
-| --- | --- | --- |
-| [![Material Kit  HTML](https://github.com/creativetimofficial/public-assets/blob/master/material-kit/material-kit.jpeg?raw=true)](https://www.creative-tim.com/product/material-kit?ref=njsmk-readme)  | [![Material Kit React](https://github.com/creativetimofficial/public-assets/blob/master/material-kit-react/material-kit-react.jpeg?raw=true)](https://www.creative-tim.com/product/material-kit-react?ref=njsmk-readme)  | [![Vue Material Kit](https://github.com/creativetimofficial/public-assets/blob/master/vue-material-kit/vue-material-kit.jpeg?raw=true)](https://www.creative-tim.com/product/vue-material-kit?ref=njsmk-readme)
-
 ## Demo
 
 | Buttons | Inputs | Navbars  |
@@ -337,17 +306,6 @@ This new design has elements that have been the result of research regarding ink
 | [![Login Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nextjs-material-kit/login-page.png)](https://demos.creative-tim.com/nextjs-material-kit/login?ref=njsmk-readme)  | [![Landing Page](https://github.com/creativetimofficial/public-assets/blob/master/nextjs-material-kit/landing-page.png?raw=true)](https://demos.creative-tim.com/nextjs-material-kit/landing?ref=njsmk-readme)  | [![Profile Page](https://github.com/creativetimofficial/public-assets/blob/master/nextjs-material-kit/profile-page.png?raw=true)](https://demos.creative-tim.com/nextjs-material-kit/profile?ref=njsmk-readme)  
 
 [View More](https://demos.creative-tim.com/nextjs-material-kit/?ref=njsmk-readme)
-
-
-## Quick start
-
-- [Download from Github](https://github.com/creativetimofficial/nextjs-material-kit/archive/master.zip).
-- Clone the repo: `git clone https://github.com/reachvivek/Skyfall.git`.
-- `npm i nextjs-material-kit`
-
-
-## Documentation
-The documentation for the NextJS Material Kit is hosted at our [website](https://demos.creative-tim.com/nextjs-material-kit/documentation/tutorial?ref=njsmk-readme).
 
 
 ## File Structure
@@ -471,20 +429,8 @@ At present, Skyfall officially aims to support the last two versions of the foll
 
 
 ## Resources
-- Demo: <https://demos.creative-tim.com/nextjs-material-kit/?ref=njsmk-readme>
-- Download Page: <https://www.creative-tim.com/product/nextjs-material-kit?ref=njsmk-readme>
-- Documentation: <https://demos.creative-tim.com/nextjs-material-kit/documentation/tutorial?ref=njsmk-readme>
-- License Agreement: <https://www.creative-tim.com/license?ref=njsmk-readme>
-- Support: <https://www.creative-tim.com/contact-us?ref=njsmk-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/nextjs-material-kit/issues)
+- MaterialUIStarter Kit: <https://demos.creative-tim.com/nextjs-material-kit/?ref=njsmk-readme>
 
-
-## Useful Links
-
-- [Free Products](https://www.creative-tim.com/templates/free?direction=desc&sort=created_at&ref=njsmk-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/templates/premium?direction=desc&sort=created_at&ref=njsmk-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/templates/react?direction=desc&sort=created_at&ref=njsmk-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=njsmk-readme)
 
 ### Let's Connect?
 
