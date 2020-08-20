@@ -203,8 +203,8 @@ Good News! Because, All it takes... is a minute. Take your time and check it out
 > - [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager) - The WorkManager API makes it easy to schedule deferrable, asynchronous tasks that are expected to run even if the app exits or device restarts.
 
 
-## Team: Roger That
-<table style="width:100%; height:100px; margin: 0px auto;">
+## Team Name: Roger That
+<table style="margin: 0px auto;" align="center">
   <tr>
     <th>
  <img src="https://github.com/reachvivek/Curb-C19/blob/master/app/src/main/res/drawable/vivek.jpg"width="245" height="240"/>
@@ -216,7 +216,7 @@ Good News! Because, All it takes... is a minute. Take your time and check it out
              <strong>VIVEK KUMAR SINGH</strong> 
           </p> 
        </a>
-	    <p align="center" style="font-size:10px">FULL STACK DEVELOPER</p> <p align="center">WEB | ANDROID | iOS</p>
+	    <p align="center" style="font-size:10px">FULL STACK DEVELOPER</p> <p align="center">SRMIST - IN</p>
      </td>
   </tr>
 </table>
