@@ -3395,7 +3395,7 @@ function Components(props) {
   return __jsx("div", {
     className: classnames__WEBPACK_IMPORTED_MODULE_1___default()(classes.main),
     style: {
-      height: "100vh"
+      height: "100%"
     },
     __self: this,
     __source: {
@@ -3421,14 +3421,14 @@ function Components(props) {
     color: "info",
     horizontal: {
       tabsGrid: {
-        xs: 2,
-        sm: 2,
+        xs: 3,
+        sm: 3,
         md: 2,
         lg: 2
       },
       contentGrid: {
-        xs: 6,
-        sm: 10,
+        xs: 8,
+        sm: 9,
         md: 8,
         lg: 9
       }

@@ -90,14 +90,14 @@ export default function Components(props) {
   });
 
   return (
-    <div className={classNames(classes.main)} style={{ height: "100vh" }}>
+    <div className={classNames(classes.main)} style={{ height: "100%" }}>
       <GridContainer>
         <GridItem>
           <NavPills
             color="info"
             horizontal={{
-              tabsGrid: { xs: 2, sm: 2, md: 2, lg: 2 },
-              contentGrid: { xs: 6, sm: 10, md: 8, lg: 9 },
+              tabsGrid: { xs: 3, sm: 3, md: 2, lg: 2 },
+              contentGrid: { xs: 8, sm: 9, md: 8, lg: 9 },
             }}
             tabs={[
               {
