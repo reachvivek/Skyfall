@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/reachvivek/Skyfall/blob/master/assets/img/cloud.png" width="200" height="200"></p>
+<p align="center"><img src="https://github.com/reachvivek/Skyfall/blob/master/Frontend/assets/img/cloud.png" width="200" height="200"></p>
 
 <h1 align="center">SKYFALL #CodeStreet'20 (American Express) </H1>
 <p align="center">
