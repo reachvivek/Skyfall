@@ -23,7 +23,7 @@ import styles from "assets/jss/nextjs-material-kit/pages/loginPage.js";
 
 import image from "assets/img/bgw.jpg";
 
-import UserPool from "./userpool";
+import UserPool from "../components/AWSAuth/userpool";
 
 import clsx from "clsx";
 import IconButton from "@material-ui/core/IconButton";
