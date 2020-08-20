@@ -32,7 +32,8 @@ import FormControl from "@material-ui/core/FormControl";
 import Visibility from "@material-ui/icons/Visibility";
 import VisibilityOff from "@material-ui/icons/VisibilityOff";
 
-import Router from "next/Router";
+import Router from "next/router";
+
 import { CognitoUser, AuthenticationDetails } from "amazon-cognito-identity-js";
 const useStyles = makeStyles(styles);
 
