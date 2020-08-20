@@ -65,7 +65,7 @@ export default function HeaderLinks(props) {
           classes={{ tooltip: classes.tooltip }}
         >
           <Button
-            href="./howitworks"
+            href="https://github.com/reachvivek/Skyfall/blob/master/README.md"
             color="transparent"
             className={classes.navLink}
           >

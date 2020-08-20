@@ -13319,7 +13319,9 @@ function () {
       Renderer: Renderer,
       generateId: generateId,
       scoped: scoped,
-      name: name
+      name: name,
+      keyframes: this.keyframes,
+      selector: undefined
     }, ruleOptions); // When user uses .createStyleSheet(), duplicate names are not possible, but
     // `sheet.addRule()` opens the door for any duplicate rule name. When this happens
     // we need to make the key unique within this RuleList instance scope.
@@ -14452,7 +14454,7 @@ var Jss =
 function () {
   function Jss(options) {
     this.id = instanceCounter++;
-    this.version = "10.3.0";
+    this.version = "10.4.0";
     this.plugins = new PluginsRegistry();
     this.options = {
       id: {
@@ -14564,8 +14566,10 @@ function () {
 
     // Enable rule without name for inline styles.
     if (typeof name === 'object') {
+      // $FlowIgnore
       return this.createRule(undefined, name, style);
-    }
+    } // $FlowIgnore
+
 
     var ruleOptions = Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({}, options, {
       name: name,

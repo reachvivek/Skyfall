@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 5);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -3345,7 +3345,7 @@ function HeaderLinks(props) {
       columnNumber: 9
     }
   }, __jsx(components_CustomButtons_Button_js__WEBPACK_IMPORTED_MODULE_12__["default"], {
-    href: "./howitworks",
+    href: "https://github.com/reachvivek/Skyfall/blob/master/README.md",
     color: "transparent",
     className: classes.navLink,
     __self: this,
@@ -6461,7 +6461,7 @@ function LandingPage(props) {
 
 /***/ }),
 
-/***/ 4:
+/***/ 5:
 /*!*****************************!*\
   !*** multi ./pages/home.js ***!
   \*****************************/
