@@ -148,60 +148,6 @@ You have your API server running at `{get it from your deployed aws platform [..
 ```
 Note: You need to disable the "Play Protect" feature from Settings of your "Google Play Store"!
 ```
-### App Walkthrough | Running 'Skyfall' For The First Time 
-#### > Dashboard UI 
-We focused on the principle of _Minimalism_. Built this up on Google’s Material Design Library which helps the UI look easy and seamless keeping and all in all adds up to enhancing the app’s design / user interface experience. Why don't you see for yourself?
-<table style="width:100%">
-  <tr>
-    <th>Dashboard (1/3)</th>
-    <th>Dashboard (2/3)</th>
-    <th>Dashboard (3/3)
-  </tr>
-  <tr>
-    <td><img src="https://github.com/reachvivek/Curb-C19/blob/master/walkthrough/20200415_052953.gif"/></td>  
-    <td><img src="https://github.com/reachvivek/Curb-C19/blob/master/walkthrough/20200415_060044.gif"/></td>
-    <td><img src="https://github.com/reachvivek/Curb-C19/blob/master/walkthrough/20200415_055602.gif"/></td> 
-  </tr>
-</table>
-
-#### Wait, this isn't done yet! There are many more features as well...
-Good News! Because, All it takes... is a minute. Take your time and check it out below... Won't you?
-
-[![Walkthrough](https://img.shields.io/badge/CurbC19Walkthrough-GoPro-blue.svg?style=flat&logo=youtube)](https://tinyurl.com/nomaddemo)
-
-## Built With
-<p align="left">
-	<a target="_blank" href="https://kotlinlang.org/">
-        <img src="https://img.shields.io/badge/Kotlin-orange.svg?style=for-the-badge&logo=kotlin" />
-	</a>
-</p>
-<p align="center">
-   <a target="_blank" href="https://firebase.google.com/">
-        <img src="https://img.shields.io/badge/Firebase-red.svg?style=flat&logo=firebase" />
-	</a>
-   <a target="_blank" href="https://material.io/design/">
-        <img src="https://img.shields.io/badge/MaterialDesign-purple.svg?style=flat&logo=materialdesign" />
-	</a>
-   <a target="_blank" href="https://developers.google.com/places/web-service/intro">
-        <img src="https://img.shields.io/badge/GoogleMaps&Places-API-darkyellow.svg?style=flat&logo=maps" />
-	</a>
-   <a target="_blank" href="https://developer.android.com/reference/org/json/JSONObject">
-        <img src="https://img.shields.io/badge/JSON-cyan.svg?style=flat&logo=material" />
-	</a>
-</p>
-
-> - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - The new way of writing asynchronous, non-blocking code
-> - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) - Data objects that notify views when the underlying database changes.
-> - [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/-flow/) - A cold asynchronous data stream that sequentially emits values and completes normally or with an exception.
-> - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - Collection of libraries that help you design robust, testable, and maintainable apps.
-> - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes. 
-> - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - Generates a binding class for each XML layout file present in that module and allows you to more easily write code that interacts with views.
-> - [Koin](https://start.insert-koin.io/) - Dependency Injection Framework (Kotlin)
-> - [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
-> - [Moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
-> - [Moshi Converter](https://github.com/square/retrofit/tree/master/retrofit-converters/moshi) - A Converter which uses Moshi for serialization to and from JSON.
-> - [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager) - The WorkManager API makes it easy to schedule deferrable, asynchronous tasks that are expected to run even if the app exits or device restarts.
-
 
 ## Team Name: Roger That
 <table style="margin: 0px auto;" align="center">
@@ -223,10 +169,6 @@ Good News! Because, All it takes... is a minute. Take your time and check it out
 
 <p align="center"><strong>Reach out to me at vs1913@srmist.edu.in or rogerthatvivek@gmail.com for any queries</strong></p>
 
-## Acknowledgement and Accreditations
-> I sincerely thank and appreciate **#CODESTREET'20 #HackerEarth Officials, all the panel members of American Express** and all the respective **Tech Enthusiasts** who volunteered in carrying out this venture by extending their support at this dark hour of Pandemic. I feel really invigorated being a part of this 24 Hours Hackathon, to be able to connect and innovate with solutions for a better and safer tomorrow.
-_Looking forward to a better tomorrow..._  
-
 ## Area/Theme:
 
 ### Cyber Security
@@ -239,132 +181,8 @@ A Full Stack Solution (includes Chrome Extension and a Mobile App) with the foll
 3. Skyfall - Mobile Application (using Native Coding in Android Studio).   
 5. Chrome Extension - For Cross Platform Suppor (Syncs/Autofills/Suggests Secure Creds). 
 
-## Attachments (Also attested on the submission page of the HackerEarth Challenge)
-
-<a target="_blank" href="https://codestreet-2020.hackerearth.com/challenges/hackathon/american-express-codestreet20/dashboard/7a0f8c9/idea/published/skyfall-2/">
-  <p align="left"> <strong>Skyfall | Idea Attachment </strong></p>
-</a>
+## Acknowledgement and Accreditations
+> I sincerely thank and appreciate **#CODESTREET'20 #HackerEarth Officials, all the panel members of American Express** and all the respective **Tech Enthusiasts** who volunteered in carrying out this venture by extending their support at this dark hour of Pandemic. I feel really invigorated being a part of this 24 Hours Hackathon, to be able to connect and innovate with solutions for a better and safer tomorrow.
+_Looking forward to a better tomorrow..._  
 
 
-## File Structure
-Within the download you'll find the following directories and files:
-
-```
-Skyfall/Frontend
-.
-├── CHANGELOG.md
-├── ISSUE_TEMPLATE.md
-├── LICENSE.md
-├── README.md
-├── next.config.js
-├── package.json
-├── Documentation
-│   ├── assets
-│   └── tutorial-components.html
-├── assets
-│   ├── css
-│   ├── img
-│   │   ├── examples
-│   │   └── faces
-│   ├── jss
-│   │   ├── nextjs-material-kit
-│   │   │   ├── components
-│   │   │   └── pages
-│   │   │       ├── componentsSections
-│   │   │       └── landingPageSections
-│   │   └── nextjs-material-kit.js
-│   └── scss
-│       ├── core
-│       │   ├── mixins
-│       │   └── variables
-│       ├── plugins
-│       └── nextjs-material-kit.scss
-├── pages
-│   ├── _app.js
-│   ├── _document.js
-│   ├── _error.js
-│   ├── components.js
-│   ├── index.js
-│   ├── landingpage.js
-│   ├── loginpage.js
-│   └── profilepage.js
-├── components
-│   ├── Badge
-│   │   └── Badge.js
-│   ├── Card
-│   │   ├── Card.js
-│   │   ├── CardBody.js
-│   │   ├── CardFooter.js
-│   │   └── CardHeader.js
-│   ├── Clearfix
-│   │   └── Clearfix.js
-│   ├── CustomButtons
-│   │   └── Button.js
-│   ├── CustomDropdown
-│   │   └── CustomDropdown.js
-│   ├── CustomInput
-│   │   └── CustomInput.js
-│   ├── CustomLinearProgress
-│   │   └── CustomLinearProgress.js
-│   ├── CustomTabs
-│   │   └── CustomTabs.js
-│   ├── Footer
-│   │   └── Footer.js
-│   ├── Grid
-│   │   ├── GridContainer.js
-│   │   └── GridItem.js
-│   ├── Header
-│   │   ├── Header.js
-│   │   └── HeaderLinks.js
-│   ├── InfoArea
-│   │   └── InfoArea.js
-│   ├── NavPills
-│   │   └── NavPills.js
-│   ├── PageChange
-│   │   └── PageChange.js
-│   ├── Pagination
-│   │   └── Pagination.js
-│   ├── Parallax
-│   │   └── Parallax.js
-│   ├── Snackbar
-│   │   └── SnackbarContent.js
-│   └── Typography
-│       ├── Danger.js
-│       ├── Info.js
-│       ├── Muted.js
-│       ├── Primary.js
-│       ├── Quote.js
-│       ├── Small.js
-│       ├── Success.js
-│       └── Warning.js
-└── pages-sections
-    ├── Components-Sections
-    │   ├── SectionBasics.js
-    │   ├── SectionCarousel.js
-    │   ├── SectionCompletedExamples.js
-    │   ├── SectionDownload.js
-    │   ├── SectionExamples.js
-    │   ├── SectionJavascript.js
-    │   ├── SectionLogin.js
-    │   ├── SectionNavbars.js
-    │   ├── SectionNotifications.js
-    │   ├── SectionPills.js
-    │   ├── SectionTabs.js
-    │   └── SectionTypography.js
-    └── LandingPage-Sections
-        ├── ProductSection.js
-        ├── TeamSection.js
-        └── WorkSection.js
-```
-
-
-## Browser Support
-
-At present, Skyfall officially aims to support the last two versions of the following browsers:
-
-<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
-
-
-
-## Resources
-- MaterialUIStarter Kit: <https://demos.creative-tim.com/nextjs-material-kit/?ref=njsmk-readme>
