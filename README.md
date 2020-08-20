@@ -368,12 +368,3 @@ At present, Skyfall officially aims to support the last two versions of the foll
 
 ## Resources
 - MaterialUIStarter Kit: <https://demos.creative-tim.com/nextjs-material-kit/?ref=njsmk-readme>
-
-
-### Let's Connect?
-
-LinkedIn: <https://www.linkedin.com/in/vivek-kumar-singh-b088a9157/>
-
-GitHub: <https://www.github.com/reachvivek>
-
-Instagram: <https://www.instagram.com/rogerthatvivek>
