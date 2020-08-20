@@ -179,21 +179,6 @@ Can't appearances be deceptive? That's what we thought! So here's an insight int
   </tr>
 </table>
 
-#### > Proposed Features
-There are also a few certain things we are proposing as an idea after considering some of the recent **activities and violations** of the lockdown protocol in day light during this pandemic hour. What do you think? _Do let us know..._
-<table style="width:100%">
-  <tr>
-    <th>Request To Go Out</th>
-    <th>Report Violation</th>
-    <th>AI Chatbot
-  </tr>
-  <tr>
-    <td><img src="https://github.com/reachvivek/Curb-C19/blob/master/walkthrough/20200415_072909.gif"/></td> 
-    <td><img src="https://github.com/reachvivek/Curb-C19/blob/master/walkthrough/20200415_073947.gif"/></td>  
-    <td><img src="https://github.com/reachvivek/Curb-C19/blob/master/walkthrough/20200415_055303.gif"/></td>
-  </tr>
-</table>
-
 #### Wait, this isn't done yet! There are many more features as well...
 Good News! Because, All it takes... is a minute. Take your time and check it out below... Won't you?
 
@@ -254,7 +239,7 @@ Good News! Because, All it takes... is a minute. Take your time and check it out
 <p align="center"><strong>Reach us at nomadforks@gmail.com for any queries</strong></p>
 
 ## Acknowledgement and Accreditations
-> We sincerely thank and appreciate **#CODE19INDIA Hackathon Officials, MOTWANI JADEJA FOUNDATION** and all the respective **HackerEarth Official Body** who carried out this venture by extending their support at this dark hour of Pandemic. We feel really invigorated being a part of this 72 Hours Hackathon, to be able to connect and innovate with solutions for a better tomorrow against a greater cause which is still at stake and we will be striving to persevere and come up with all we can to help placate this issue.
+> I sincerely thank and appreciate **#CODESTREET'20 #HackerEarth Officials, all the panel members of American Express** and all the respective **Tech Enthusiasts** who volunteered in carrying out this venture by extending their support at this dark hour of Pandemic. I feel really invigorated being a part of this 24 Hours Hackathon, to be able to connect and innovate with solutions for a better and safer tomorrow.
 _Looking forward to a better tomorrow..._  
 
 ## Area/Theme:
@@ -264,48 +249,16 @@ _Looking forward to a better tomorrow..._
 ### Solution
 
 A Full Stack Solution (includes Chrome Extension and a Mobile App) with the following functionalities:
-1. Credentials Management (CRUD Operations)
-2. Users Management (Using Cognito) 
-3. AWS Serverless Application with Swagger UI (Complete Backend) 
-4. Suggestions to make User's Credentials Strong.   
-5. Syncs across any device. 
+1. Backend Application with Swagger UI (Complete Backend). 
+2. Frontend Web App using NextJs (Skyfall Web). 
+3. Skyfall - Mobile Application (using Native Coding in Android Studio).   
+5. Chrome Extension - For Cross Platform Suppor (Syncs/Autofills/Suggests Secure Creds). 
 
 ## Attachments (Also attested on the submission page of the HackerEarth Challenge)
 
-<a target="_blank" href="https://www.tinyurl.com/nomadpitch">
-  <p align="left"> <strong>Pitching Curb C-19 | YouTube</strong></p> 
+<a target="_blank" href="https://codestreet-2020.hackerearth.com/challenges/hackathon/american-express-codestreet20/dashboard/7a0f8c9/idea/published/skyfall-2/">
+  <p align="left"> <strong>Skyfall | Idea Attachment </strong></p>
 </a>
-
-<a target="_blank" href="https://www.canva.com/design/DAD5F-bf_2s/T3ulRrpBLmK1Uc0R3hpbKQ/view?utm_content=DAD5F-bf_2s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#6">
-  <p align="left"> <strong>Curb C-19 | Presentation </strong></p>
-</a>
-
-
-## Table of Contents
-
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
-
-## Demo
-
-| Buttons | Inputs | Navbars  |
-| --- | --- | ---  |
-| [![Buttons](https://github.com/creativetimofficial/public-assets/blob/master/nextjs-material-kit/buttons.png?raw=true)](https://demos.creative-tim.com/nextjs-material-kit/?ref=njsmk-readme)  | [![Inputs](https://github.com/creativetimofficial/public-assets/blob/master/nextjs-material-kit/inputs.png?raw=true)](https://demos.creative-tim.com/nextjs-material-kit/?ref=njsmk-readme)  | [![Navbar](https://github.com/creativetimofficial/public-assets/blob/master/nextjs-material-kit/navbars.png?raw=true)](https://demos.creative-tim.com/nextjs-material-kit/?ref=njsmk-readme)  
-
-| Login Page | Landing Page | Profile Page  |
-| --- | --- | ---  |
-| [![Login Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nextjs-material-kit/login-page.png)](https://demos.creative-tim.com/nextjs-material-kit/login?ref=njsmk-readme)  | [![Landing Page](https://github.com/creativetimofficial/public-assets/blob/master/nextjs-material-kit/landing-page.png?raw=true)](https://demos.creative-tim.com/nextjs-material-kit/landing?ref=njsmk-readme)  | [![Profile Page](https://github.com/creativetimofficial/public-assets/blob/master/nextjs-material-kit/profile-page.png?raw=true)](https://demos.creative-tim.com/nextjs-material-kit/profile?ref=njsmk-readme)  
-
-[View More](https://demos.creative-tim.com/nextjs-material-kit/?ref=njsmk-readme)
 
 
 ## File Structure
